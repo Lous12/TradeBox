@@ -1,0 +1,22 @@
+# IDE / build output
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+*.user
+*.suo
+
+# Runtime / diagnostics
+*.log
+crash_*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local archives and release staging
+*.7z
+*.rar
+*.tar
+*.tar.gz
